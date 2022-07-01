@@ -1,0 +1,13 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.13.0",
+    "libraryName": "sharepoint-wb-ibese-upload",
+    "libraryId": "39a0b46d-c3a7-4823-8740-676a5126c58a",
+    "packageManager": "npm",
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

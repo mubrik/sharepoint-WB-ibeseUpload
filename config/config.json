@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "ibese-upload-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/ibeseUpload/IbeseUploadWebPart.js",
+          "manifest": "./src/webparts/ibeseUpload/IbeseUploadWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "IbeseUploadWebPartStrings": "lib/webparts/ibeseUpload/loc/{locale}.js"
+  }
+}

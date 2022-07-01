@@ -1,0 +1,20 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sharepoint-wb-ibese-upload-client-side-solution",
+    "id": "39a0b46d-c3a7-4823-8740-676a5126c58a",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.13.0"
+    }
+  },
+  "paths": {
+    "zippedPackage": "solution/sharepoint-wb-ibese-upload.sppkg"
+  }
+}
